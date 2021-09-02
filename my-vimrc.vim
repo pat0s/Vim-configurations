@@ -48,9 +48,4 @@ set incsearch
 " Show matching brackets when text indicator is over them
 set showmatch
 
-
-"-----------------------------
-"-- ANOTHER OPTIONS
-"-----------------------------
-" Increase the undo limit
-set history = 500
+set fileformats=unix
