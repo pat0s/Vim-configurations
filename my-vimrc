@@ -48,4 +48,5 @@ set incsearch
 " Show matching brackets when text indicator is over them
 set showmatch
 
+" Show windows line endings ^M
 set fileformats=unix
